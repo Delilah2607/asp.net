@@ -1,0 +1,25 @@
+﻿@page "/parametros/{Id:int}/{Nacionalidad?}"
+@inject NavigationManager Nav
+<h3>Parametros</h3>
+@Id
+@Nacionalidad
+
+<button @onclick="Regresar">Home</button>
+@code {
+    [Parameter]
+    public int Id { get; set; }
+    [Parameter]
+    public string Nacionalidad { get; set; }
+    protected override void OnParametersSet() // estamos utilizando el ciclo de vida oninitialize
+    {
+        if (Nacionalidad == null) {
+            Nacionalidad = "CostaRica";
+        }
+
+    }
+    void Regresar()
+    {
+        Nav.NavigateTo("/");
+    }
+}
+

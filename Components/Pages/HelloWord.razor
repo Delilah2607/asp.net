@@ -1,0 +1,22 @@
+﻿@page "/HolaMundo"
+
+<PageTitle>Ejemplo</PageTitle>
+
+<h1>Ejemplo  Boton </h1>
+
+<p role="status">@Mensaje</p>
+
+
+
+<button class="btn btn-primary" @onclick="CambiarMensaje">Click me</button>
+
+@code {
+
+
+    private string Mensaje = "Hola Mundo ";
+
+
+    void CambiarMensaje(){
+        Mensaje = " Estoy cansada Jefe";
+    }
+}

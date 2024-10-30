@@ -1,0 +1,19 @@
+﻿@page "/Perfil/{NombreUsuario}"
+@inject NavigationManager Nav
+<h3>perfil</h3>
+@NombreUsuario
+<button @onclick="inicio"> Ir a Inicio</button>
+
+<p> perfil de @NombreUsuario</p>
+
+@code {
+    [Parameter]
+    public string NombreUsuario { get; set; }
+
+
+    
+    void inicio()
+    {
+        Nav.NavigateTo("/inicio");
+    }
+}

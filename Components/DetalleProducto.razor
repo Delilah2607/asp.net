@@ -1,0 +1,43 @@
+﻿@page "/productos/{productoId:int}"
+
+@inject ProductService Ps
+
+<h3>Detalles Producto</h3>
+
+<div class="container my-5">
+    <div class="card shadow-lg" style="max-width: 600px; margin: auto;">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <img src="https://cdn-icons-png.flaticon.com/512/1783/1783976.png" class="img-fluid rounded-start" alt="Imagen del Producto">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">@producto.Nombre</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">@producto.Precio</h6>
+                    <p class="card-text">@producto.Descripcion</p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    [Parameter]
+    public int productoId { get; set; }
+    private Producto? producto;
+    protected override void OnParametersSet()
+    {
+        producto = Ps.productos.FirstOrDefault(L => L.Id == productoId);
+    }
+
+
+    
+    
+
+    
+    
+  
+}

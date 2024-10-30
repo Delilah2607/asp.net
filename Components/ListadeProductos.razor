@@ -1,0 +1,44 @@
+﻿@page "/productos"
+
+
+@inject ProductService PS
+
+<PageTitle>Productos</PageTitle>
+
+<h3> Lista de productos </h3>
+
+
+@if (   PS.productos == null)
+{
+    
+}
+else
+{
+    <table class=" table table-success table-striped">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Precio</th>
+                <th>Descripcion</th>
+            </tr>
+        </thead>
+        <tbody>
+          @foreach (var producto in PS.productos)
+            {
+             <tr >
+            <td>@producto.Nombre</td>
+            <td>@producto.Precio</td>
+            <td>@producto.Descripcion</td>
+            <td><a href="/productos/@producto.Id"> Ir a Detalles de Producto  </a></td>
+            </tr>
+            }
+                
+        </tbody>
+        
+        
+    </table>
+}
+
+@code {
+   
+}

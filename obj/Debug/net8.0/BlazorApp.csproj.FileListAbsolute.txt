@@ -1,0 +1,91 @@
+C:\Users\Asus\source\repos\BlazorApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\source\repos\BlazorApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\source\repos\BlazorApp\bin\Debug\net8.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\Asus\source\repos\BlazorApp\bin\Debug\net8.0\BlazorApp.exe
+C:\Users\Asus\source\repos\BlazorApp\bin\Debug\net8.0\BlazorApp.deps.json
+C:\Users\Asus\source\repos\BlazorApp\bin\Debug\net8.0\BlazorApp.runtimeconfig.json
+C:\Users\Asus\source\repos\BlazorApp\bin\Debug\net8.0\BlazorApp.dll
+C:\Users\Asus\source\repos\BlazorApp\bin\Debug\net8.0\BlazorApp.pdb
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfo.cs
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\BlazorApp.dll
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\refint\BlazorApp.dll
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
+C:\Users\Asus\source\repos\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.exe
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.deps.json
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.runtimeconfig.json
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.dll
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.pdb
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfo.cs
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.dll
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\refint\BlazorApp.dll
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.staticwebassets.endpoints.json
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Est_Lab01\Downloads\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.exe
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.deps.json
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.runtimeconfig.json
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.dll
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\bin\Debug\net8.0\BlazorApp.pdb
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfo.cs
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.dll
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\refint\BlazorApp.dll
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
+C:\Users\Asus\Downloads\BlazorApp (3)\BlazorApp\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
